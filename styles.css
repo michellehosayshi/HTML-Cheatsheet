@@ -1,0 +1,41 @@
+body{
+    font-family: Helvetiva, sans-serif;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h1 span{
+    background-color: black
+}
+
+h2{
+    color: black;
+    text-align: center;
+    }
+
+.code{
+    font-family: Lucida, Courier, monospace;
+    background-color: papayawhip;
+}
+
+table {
+    border: 2px solid blue;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: royalblue;
+  }
+  
+  td {
+    border-top: 1px solid blue;
+  }
+
+  th{
+      color: white;
+  }
